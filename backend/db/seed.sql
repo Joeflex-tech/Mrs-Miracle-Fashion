@@ -1,0 +1,1 @@
+-- Run schema.sql first, then: node backend/db/seed.js

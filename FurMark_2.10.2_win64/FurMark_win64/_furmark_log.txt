@@ -1,0 +1,61 @@
+(01:39:58:105)	FurMark 2.10.2.0 (build: Oct 22 2025@12:39:49)
+(01:39:58:105)	(c)2007-2025 Geeks3D
+(01:39:58:105)	homepage: https://www.geeks3d.com/furmark/
+(01:39:58:105)	discord server : https://geeks3d.com/discord/
+(01:39:58:105)	FurMark (GeeXLab engine) initialization...
+(01:39:58:105)	command line: furmark.exe --demo furmark-gl --gpu-index 0 --width 1920 --height 1080 --msaa 1 --furmark-bfc 0 --furmark-bkg-img-id 0 --dpi-scaling 1.250000 
+(01:39:58:105)	FurMark home directory: C:\Users\DELL\Desktop\FurMark_2.10.2_win64\FurMark_win64\
+(01:39:58:105)	[stb] STB image loader. Supported formats: *.JPEG, *.PNG, *.TGA, *.BMP, *.PSD, *.GIF, *.HDR, *.PIC
+(01:39:58:105)	[tinyexr] EXR image loader.
+(01:39:58:105)	[lib3ds] Lib3ds loader (core plugin).
+(01:39:58:105)	[ObjLoaderV1] OBJ 3D loader (core plugin).
+(01:39:58:105)	[ObjLoaderV2] OBJ loader based on Tiny OBJ Loader (core plugin).
+(01:39:58:105)	[STL] STL (StereoLithography) 3D loader (core plugin).
+(01:39:58:105)	[glTF] glTF 3D loader (core plugin).
+(01:39:58:105)	[SQLite3] SQLite3 version 3.50.4
+(01:39:58:105)	GraphX Core 0.60.1.0 (codename: Dirac) initialization ok.
+(01:39:58:105)	Windows version: Windows 11 build 22000
+(01:39:58:105)	HW platform type: PC
+(01:39:58:105)	SW platform type: Windows 64-bit
+(01:39:58:105)	[GpuMonitor] Operating system detected: Windows 11 build 22000
+(01:39:58:105)	[GpuMonitor] NV/R530+: physical GPU(s): 1 - logical GPU(s): 1
+(01:39:58:152)	[GpuMonitor] Num GPUs detected: 2
+(01:39:58:152)	[GpuMonitor] > GPU0
+(01:39:58:152)	[GpuMonitor]   - name: Quadro M2200
+(01:39:58:152)	[GpuMonitor]   - PCI codes: 0x10DE-0x1436
+(01:39:58:152)	[GpuMonitor]   - Bus ID: 1
+(01:39:58:152)	[GpuMonitor]   - VBIOS: 84.06.76.00.1c
+(01:39:58:152)	[GpuMonitor]   - core temperature: 59 degC
+(01:39:58:152)	[GpuMonitor] > GPU1
+(01:39:58:152)	[GpuMonitor]   - name: Intel(R) HD Graphics P630
+(01:39:58:152)	[GpuMonitor]   - PCI codes: 0x8086-0x591D
+(01:39:58:152)	[GpuMonitor]   - VBIOS: Intel Video BIOS
+(01:39:58:152)	[GpuMonitor]   - driver: Intel 21.20.16.4534 (10-7-2016) GL:C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd6
+(01:39:58:152)	FurMark (GeeXLab engine) started ok.
+(01:39:58:152)	system DPI: 96
+(01:39:58:167)	3D window size: 1938 x 1127
+(01:39:58:198)	current DPI: xdpi(120), ydpi(120) - DPI scale: 1.2
+(01:39:58:433)	GL_RENDERER: Quadro M2200/PCIe/SSE2
+(01:39:58:433)	GL_VENDOR: NVIDIA Corporation
+(01:39:58:433)	GL_VERSION: 3.2.0 NVIDIA 576.80
+(01:39:58:433)	GL_SHADING_LANGUAGE_VERSION: 1.50 NVIDIA via Cg compiler
+(01:39:58:433)	OpenGL version detected: 3.2
+(01:39:58:433)	OpenGL extensions: 423
+(01:39:58:448)	[ArtifactScanner] Artifact scanner for GPU stability checking.
+(02:07:25:243)	[ Demo Quick Stats ]
+(02:07:25:243)	- demo                 : FurMark (GL) (built-in: YES)
+(02:07:25:243)	- renderer             : Quadro M2200/PCIe/SSE2
+(02:07:25:243)	- 3D API               : OpenGL 3.2.0 NVIDIA 576.80
+(02:07:25:243)	- resolution           : 1920x1055
+(02:07:25:243)	- frames               : 224336
+(02:07:25:243)	- duration             : 1646694 ms
+(02:07:25:243)	- FPS (min/avg/max)    : 19 / 136 / 152
+(02:07:25:243)	- GPU 0: Quadro M2200 [10DE-1436]
+(02:07:25:243)	  .max temperature: 82°C
+(02:07:25:243)	  .max usage: 100%
+(02:07:25:243)	  .max core clock: 1038 MHz
+(02:07:25:243)	  .min core clock: 583 MHz
+(02:07:25:243)	- GPU 1: Intel(R) HD Graphics P630 [8086-591D]
+(02:07:26:118)	FurMark (GeeXLab engine) is shutting down...
+(02:07:26:711)	GraphX Core stopped ok.
+(02:07:26:711)	FurMark (GeeXLab engine) shutdown ok.

@@ -1,0 +1,9 @@
+{
+  "name": "Mrs Miracle",
+  "short_name": "Mrs Miracle",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf6f2",
+  "theme_color": "#bd626d",
+  "description": "Fashion for every you."
+}
